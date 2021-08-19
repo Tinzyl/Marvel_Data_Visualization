@@ -1,2 +1,2 @@
 # Marvel_Data_Visualization
-## Visualized the dominance of male characters compared to female characters in Marvel Comics
+## Visualized how Male Charcters dominate Female Characters in Marvel Comics
